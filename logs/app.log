@@ -1,0 +1,6 @@
+19:23:03.387 DEBUG edu.a_level.launcher.Application - Some Debug message
+19:23:03.388 WARN  edu.a_level.launcher.Application - Some warning method
+19:23:03.389 ERROR edu.a_level.launcher.Application - Some error message
+22:45:48.919 DEBUG edu.a_level.launcher.Application - Some Debug message
+22:45:48.921 WARN  edu.a_level.launcher.Application - Some warning method
+22:45:48.921 ERROR edu.a_level.launcher.Application - Some error message
